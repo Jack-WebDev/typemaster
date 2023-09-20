@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+	/* Colors */
+	--clr-100: #f16718;
+	--clr-200: #ff9b62;
+	--clr-300: #162542;
+	--clr-400: #7b8bad;
+	--clr-500: #e8eff2;
+}
